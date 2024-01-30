@@ -1,7 +1,8 @@
 # About-me
-## Antonio Claudio Ortiz - Desarrollador y Educador
-
-### ¡Hola! Soy Antonio Claudio Ortiz, un apasionado Ingeniero en Informática con una sólida formación académica y experiencia destacada tanto en el desarrollo de software como en la exploración de datos. Mi objetivo es aplicar mis habilidades en un entorno de trabajo desafiante en el campo de la tecnología. Además, soy un educador comprometido y un defensor de la innovación en la enseñanza
+<p align='center'>
+<img src = 'https://document-export.canva.com/CI74M/DAF7XkCI74M/6/thumbnail/0001.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUHWDTJW6UD%2F20240129%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240129T162332Z&X-Amz-Expires=88136&X-Amz-Signature=73abdff21655d9e4ba80821f75b956c86aedb25d17ad503289f7447fe24559a7&X-Amz-SignedHeaders=host&response-expires=Tue%2C%2030%20Jan%202024%2016%3A52%3A28%20GMT' height = 300>
+<p>
+### ¡Hola! Soy Claudio, un apasionado Ingeniero en Informática con una sólida formación académica y experiencia destacada tanto en el desarrollo de software como en la exploración de datos. Mi objetivo es aplicar mis habilidades en un entorno de trabajo desafiante en el campo de la tecnología. Además, soy un educador comprometido y un defensor de la innovación en la enseñanza
 
 ## Experiencia Académica y Profesional
 
