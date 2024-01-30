@@ -86,3 +86,6 @@ Machine Learning:
 [Linkedin](https://www.linkedin.com/in/antonio-claudio-ortiz-b4a6a41ba/)
 
 Correo: claudiodrllo2023@gmail.com
+
+## Certificaciones Canva 
+<img src = 'https://document-export.canva.com/ywoKc/DAF7XtywoKc/2/thumbnail/0001.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUHWDTJW6UD%2F20240130%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240130T023417Z&X-Amz-Expires=51205&X-Amz-Signature=fb3b75089ecfaa05c9a3a7e8ef2ab66e41f8fe6d560a56814a994a502c1f7195&X-Amz-SignedHeaders=host&response-expires=Tue%2C%2030%20Jan%202024%2016%3A47%3A42%20GMT' height = 300>
